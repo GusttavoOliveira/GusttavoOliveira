@@ -4,5 +4,5 @@ Meu nome é Luiz Gusttavo, tenho 18 anos, nasci e cresci na cidade de João Pess
 
 [Instagram pessoal](https://www.instagram.com/luiz.gusttavo26/?hl=pt-br)
 
-[LinkedIn](linkedin.com/in/luiz-gusttavo-oliveira-de-souza-7538091b1 )
+[LinkedIn](https://www.linkedin.com/in/luiz-gusttavo-oliveira-de-souza-7538091b1/ )
 
