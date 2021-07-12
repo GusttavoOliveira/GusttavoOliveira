@@ -4,7 +4,7 @@
 <img alt="Illustrative image" align="center" src="https://c4.wallpaperflare.com/wallpaper/805/878/524/netflix-chill-wallpaper-preview.jpg">
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusttavoOliveira&show_icons=true&theme=algolia&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoOliveira)](https://github.com/GusttavoOliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoOliveira&lang=10)](https://github.com/GusttavoOliveira/github-readme-stats)
 
 
 
