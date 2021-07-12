@@ -1,8 +1,36 @@
 
-# Uma breve biografia
-Meu nome é Luiz Gusttavo, tenho 18 anos, nasci e cresci na cidade de João Pessoa na Paraíba. Sou graduando do curso de **Engenharia da Computação** na Universidade Federal da Paraíba(UFPB) desde o período suplementar 2019.4 e sou membro da Sociedade de Robótica e Automação(RAS) da universidade. Faço parte do Movimento Escoteiro desde o ano de 2013, onde aprendi muitas coisas que vão desde valores morais como respeito e disciplina até trabalho em equipe e liderança, lá fiz muitas amizades e cresci como pessoa. Sou um apaixonado por tecnologia e pelo mundo da programação, estou disposto a aprender muito durante meu curso com experiências dentro e fora da universidade e usar essas experiências na minha vida pessoal e profissional.
+# About me
 
-[Instagram pessoal](https://www.instagram.com/luiz.gusttavo26/?hl=pt-br)
+<img alt="Illustrative image" align="center" src="https://c4.wallpaperflare.com/wallpaper/805/878/524/netflix-chill-wallpaper-preview.jpg">
 
-[LinkedIn](https://www.linkedin.com/in/luiz-gusttavo-oliveira-de-souza-7538091b1/ )
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusttavoOliveira&show_icons=true&theme=algolia&count_private=true)
 
+
+## I'm Luiz Gusttavo
+
+  I live in Brazil, northeast. I am 19 and I'm a Computer Engineering undergraduate in Federal University of Paraíba since 2020.  I like to learn new technologies
+  and programming languages in order to solve problems.
+
+- Computer Engineering undergraduate 🖥️
+- Brazilian 🇧🇷
+- Science lover 🧪
+- Programming lover 🖱️
+- Nature lover 🏕️
+
+## Currently
+
+* I've been learning more about Python 🧡
+* I've been learning more about Kotlin 💙
+* Volunteer member of Robotics and Automation Society(RAS) 🤖
+* Studying hard 📚
+
+## Connect with me
+<a href="https://www.linkedin.com/in/luiz-gusttavo-oliveira-de-souza-7538091b1/">
+  <img align="center" alt="Luiz's LinkedIn" high="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+   style="max-width=100% ;">
+</a>
+
+<a href="https://www.instagram.com/luiz.gusttavo26/?hl=pt-br">
+  <img align="center" alt="Luiz's LinkedIn" high="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"
+   style="max-width=100% ;">
+</a>
