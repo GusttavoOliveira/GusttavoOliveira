@@ -1,10 +1,15 @@
 
-# About me
 
-<img alt="Illustrative image" align="center" src="https://c4.wallpaperflare.com/wallpaper/805/878/524/netflix-chill-wallpaper-preview.jpg">
+<img alt="Illustrative image" align="right" heith="1000" width="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c57ea2c3-39dd-42b3-b3f7-683159547fec/dafwl5t-05f83737-23ab-40cb-b41e-6a8f0523550d.jpg/v1/fill/w_1131,h_707,q_70,strp/___shadow____by_darkeagle2011_dafwl5t-pre.jpg">
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusttavoOliveira&show_icons=true&theme=algolia&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoOliveira&lang=10)](https://github.com/GusttavoOliveira/github-readme-stats)
+<p align = "center">
+  <a href = "https://github.com/GusttavoOliveira%22%3E">
+    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=GusttavoOliveira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" >
+    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoOliveira&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=6%22/%3E">
+  </a>
+</p>
 
 
 
