@@ -1,6 +1,6 @@
 
 
-<img alt="Illustrative image" align="right" heith="1000" width="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c57ea2c3-39dd-42b3-b3f7-683159547fec/dafwl5t-05f83737-23ab-40cb-b41e-6a8f0523550d.jpg/v1/fill/w_1131,h_707,q_70,strp/___shadow____by_darkeagle2011_dafwl5t-pre.jpg">
+<img alt="Illustrative image" align="right" heith="900" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c57ea2c3-39dd-42b3-b3f7-683159547fec/dafwl5t-05f83737-23ab-40cb-b41e-6a8f0523550d.jpg/v1/fill/w_1131,h_707,q_70,strp/___shadow____by_darkeagle2011_dafwl5t-pre.jpg">
 
 <p align = "center">
   <a href = "https://github.com/GusttavoOliveira%22%3E">
