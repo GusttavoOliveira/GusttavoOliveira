@@ -39,3 +39,8 @@
   <img align="center" alt="Luiz's LinkedIn" high="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"
    style="max-width=100% ;">
 </a>
+
+<a href="https://g.dev/luizgusttavo">
+  <img align="center" alt="Luiz's LinkedIn" high="30" width="40" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png"
+   style="max-width=100% ;">
+</a>
