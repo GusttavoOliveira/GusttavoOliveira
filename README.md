@@ -26,7 +26,6 @@
 
 * I've been learning more about Python 🧡
 * I've been learning more about Kotlin 💙
-* Volunteer member of Robotics and Automation Society(RAS) 🤖
 * Studying hard 📚
 
 ## Connect with me
