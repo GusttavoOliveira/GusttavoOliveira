@@ -16,7 +16,7 @@
   I live in Brazil, northeast. I am 19 and I'm a Computer Engineering undergraduate at Federal University of Paraíba since 2020.  I like to learn new technologies
   and programming languages in order to solve problems.
 
-- Computer Engineering undergraduate 🖥️
+- Computer Science undergraduate 🖥️
 - Brazilian 🇧🇷
 - Science lover 🧪
 - Programming lover 🖱️
@@ -25,7 +25,7 @@
 ## Currently
 
 * I've been learning more about Python 🧡
-* I've been learning more about Kotlin 💙
+* I've been learning more about Django 💙
 * Studying hard 📚
 
 ## Connect with me
