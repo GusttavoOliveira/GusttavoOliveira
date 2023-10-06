@@ -13,7 +13,7 @@
 
 ## I'm Luiz Gusttavo
 
-  I live in Brazil, northeast. I am 19 and I'm a Computer Engineering undergraduate at Federal University of Paraíba since 2020.  I like to learn new technologies
+  I live in Brazil, northeast. I am 21 and I'm a Computer Science undergraduate at Federal University of Paraíba since 2020.  I like to learn new technologies
   and programming languages in order to solve problems.
 
 - Computer Science undergraduate 🖥️
