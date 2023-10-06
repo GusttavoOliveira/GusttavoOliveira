@@ -4,8 +4,6 @@
   <a href = "https://github.com/GusttavoOliveira%22%3E">
     
   <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=GusttavoOliveira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" >
-    
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoOliveira&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=6%22/%3E">
   </a>
 </p>
 
